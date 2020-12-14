@@ -3,5 +3,5 @@ function addNumbers () {
  const b = +document.getElementById('x2').value
  const h = +document.getElementById('x3').value
  const output = (a + b) / 2 * h
- document.getElementById('td').innerHTML = output;
+ document.getElementById('td').innerHTML = output
 }
